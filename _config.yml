@@ -4,7 +4,7 @@ course_description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Na
 course_semester: "Spring 2024"
 
 baseurl: "/2024s" # the subpath of your site, e.g. /blog/
-url: "http://fantasyethan.github.io/" # the base hostname & protocol for your site
+url: "http://comp3516-hku.github.io/" # the base hostname & protocol for your site
 
 schoolname: "The University of Hong Kong"
 schoolurl: "https://www.hku.hk/"
